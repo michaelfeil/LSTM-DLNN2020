@@ -1,7 +1,7 @@
 # License
 
 Forked from https://github.com/quanpn90/LSTMAssignment-DLNN2020 by Ngoc Quan Pham, BSD License
-Based on https://github.com/karpathy/char-rnn by Andrej Karpathy, MIT License
+Based on code of https://gist.github.com/karpathy/d4dee566867f8291f086 by Andrej Karpathy
 
 # Character-based Language Modeling with Long short-term memory 
 
