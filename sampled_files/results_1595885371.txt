@@ -1,0 +1,282 @@
+ 
+ Hyperparamters: 
+ 	 batch_size: 64 
+ 	 emb_size: 16 
+ 	 hidden_size: 256 
+ 	 seq_length: 128 
+ 	 learning_rate: 0.05 
+ 	 epochs: 70 
+ final loss 2.879851099797589 
+ 
+ Start Sample temp: 0.2 --- 
+ I thou shall I he hath said thy the some shall bear the she
+think it is they shall be the some shall bears they shall he shall you thene
+The prines the stand of they will you thou she shall he shall me
+And then they we hath thene in the some shall bearing
+The some of your hand the will be the will be thene is she then he shall bear the will be thene
+I see the some of your hand the will an he was the some
+That I she hath then he shall you then they shall he shall he hath your his
+And then he shall he will be the some shall bear the will be thene
+And then in the son thou hate the some shall bear the son,
+And thou she then he shall me they shall say you he should say
+I cannot thene in the though he hath they we hall thene
+And thou art thou shall you this the some shall shall he hath your his
+A sole an he shall she hath thene you shall he thene you are yours.
+
+LARESTO:
+I then they shall you come the some counselless they shall you thene
+The prines the some without they shall bear the she
+hath a man of your hand the part he shat thou shall your he was they hath thene
+I have bearing the chile of your he will now you then they shall your his
+And then he was the some she hath some of your hands
+Or she bearing the more of your hate and they shall your his
+And then this is the will then thou shall he shall he shall he shall he hath mise
+The she dine they will we hat you hath they shall your his he done
+The son thou art thou didst thou she then they shall then he shall bear the sone
+This is the will of your heaven will a mane of your hell.
+
+LADY CINIAS:
+Why, then thou she then this is they we hath he shall he hath may son the me
+I said the more an easte with the some shall bear the sonesty
+And then it we hath your his shat they we hath your me,
+And then then he hath in the will be the some withouts
+Or who shall be the will be the stay then he hath me thenest
+And then thou she bearing the some shall bearing.
+
+LEONTES:
+And then thou shall I beine they shall your his the son,
+And 
+ --- End Sample temp: 0.2 
+ 
+ 
+ Start Sample temp: 0.5 --- 
+ We putious with it is nothing this out a somereen shat
+Our Lord Hane of your she chile then this is we have now they shall dought
+I couned your a mother and the without a son?
+
+CATESON:
+What, then in they say your this is it is a mane of they dive he I hath youther
+The kingers thou hall find me a solain,
+With the bore of your eye--
+And this it is the more an he lips she we will done,
+Then I cannot me they who may she hath have thene is
+Shall we will he hath none me say this they like they will some they
+This is may there of you thou this you we wence the hus
+A some hath fale thou shall you hole the thenesters
+And thou art they he tale will nonele they we lads
+shall I ne't your mine hurt they thene is nother now are
+More is thene is nothick and the will she hath thene
+And he has they a fouly siles some will an easte
+And she hat you done thou should we me there we hate
+I he will you she may prisonseant they done
+This he the promine fortune she said your most thou we shame
+This is now the wither we will thenesterane
+I counsed the me thene it is then he shall you.
+
+GLOUCESTEO:
+And me then I have follow they with they faither,
+Thou diel the sile is in she will in this'
+But if those she come out of your viole course the body
+And they will me this is there is bear they we may then.
+
+MARINIA:
+And he are the fine is none,
+I can the son she shall say you are they son they
+I seed unhore he hath this I hath men,
+And his the withouth he may bear the bud,
+Those the wilions I love me being they she your his he then it you hate
+Though with me this is the mother an hele:
+And he shall I thou will thene at our earrained an han!
+
+CORIO:
+He hath they then I selick, I have she should you some a most come.
+
+PAULINA:
+He then the causentions is now then like they she hounes
+With a baist a bod, I counse the will bears in a proces,
+I an hun a man will now he hath he hath they,
+The dine or I amorie's he look some presence,
+And is they then he thou hast thou art thou shole thought
+A chile of yo 
+ --- End Sample temp: 0.5 
+ 
+ 
+ Start Sample temp: 0.7 --- 
+ 
+JUCIO:
+Hang he shall your withant's this is mister your wither I he'll
+Thou may part you may this I seems me now cas
+I come, which will you Earn of Marcius, if good Withio,
+I dou dost I fine your his beather'd,
+And then she hat nother I loves your lady as of your boining:
+She leave arm then your me who ever will done, that I he shall he shall I
+We Letore and the tale batt' the very wiken in they beating
+I he bouble out, Lashe God out somethink is fare sha'll saide
+That likes me but we his break of the hanfed
+A frey thy indory ore I am often they are my breast.
+
+LADY CISIAN:
+Benorder, we he is he are a gentlen the fairish'd,
+Thou wilt my fort then it is Aufiline is.
+
+KINGePEANDA:
+Now, and thou shall me but mile give a more the new'
+Without thou art thou thou art a chines let troubbess on thou thine whiche
+And they should I me they say you then this
+By they drow thy hath thene say I longely prome his some
+Of was it since, you hun me beine thenesty thou hate
+And thou she make you. Avenian if I tell me thene thenefore lies
+The learing the nurse she shat thou hate this
+A master, and he come a law'st my son, and the will will he will he hath make he
+May ghisportenties he may leave dield we beach
+This we arisprane you: when he is
+Upoll process' he this wishood prove a manes she a mane anoir follow
+Hall now your hat without me but this it bearanes
+Our loukely will he hath pate the though sich keeping you,
+And she shall I out me without
+And I could this no this read a many grow?
+
+CARID:
+A shepe you, son he's he is a maste withouts out,
+I would being is in the mine withoue of our good are--
+That of your fair son thenesters will on this is thene bun
+As some of your open was the laides this a son aw
+I fill bearinger with lemen'd this,
+When thene he a patishale, an as a phistipare was now me drom they
+I then thou dolder five me in she hear it is then, if I he waspy
+And this import of the lost in this they dine one
+Whe is then you me though he should we shan love.
+
+SICARIO:
+O, t 
+ --- End Sample temp: 0.7 
+ 
+ 
+ Start Sample temp: 0.9 --- 
+ Nork efon our je would say:
+Be I she ladian Sichs we regent rey'
+Andieven birth they rounest though you one.
+
+KING RICHARI:
+UQUEEEET:
+De'd the Lord which wike thou doest I ne't me fine
+I sue.
+
+MARIANA:
+Nork, if I Ware tho ir I love, Sire lane is she behole
+The mained in this you dine or brinion
+The arms and there withoun for easors then?
+
+CORIO:
+Me thenage winh me follow mastereen,
+This will be my borned then it we arm he shat
+'Bearter you hapely me some there is in a base somether this
+3 KING HENOSIO:
+Dead you, wisnous that I folion he one thou wares me a maye bades
+She but is there weal one your warsing'd they'
+That than he I coursicounes they donoue
+Gor I come, he upor unholester shall rested it.
+
+MANENIUS:
+Then?
+
+GLOUCESTEO:
+Fair she will beary a mother without when
+What if for the coursinute of I must been.
+He hall dillenes light of I fine gold your hime Pausinous solane
+This thish that is my somercishes; youth droath
+Or he we arn some bearing:
+Your sile, cousingles, we bear good the prince is we will?
+
+DUCENTIO:
+Faly at the poetio's hath dalisher's use
+This is they saide, but I thou didst me in worthy
+Or he may bear shine, an eely in there shall be thenes of then impome.
+
+EXEANILAT:
+Hane in it is some thirs stay'd good I fine of youth!
+This the that you shorow--
+Cost it donough enemanious steal love, lafied, he's musared;
+What wares they say'st thousinest is the worthy heep
+So lost you, faperoud fores of they we owt way an id
+Your coulatcher in the sole mike she shall youe falus:
+I hom of be somethisher's a bat been back
+And non this which seathe.
+
+HASTINICA:
+And thinks it we will be then is was all this
+But you gill himine your queen'd and thene thou doy gave all.
+I Coriinon. are yould lieste
+But I wellaous now Carufore is lie:
+I cann his something Hale and his king,
+Save he hishonest you this you waspose
+Shat it thisould my heak of his he hath eathal, and
+Nork, I seeperore, your uncoural mady eyerence soy
+father will I promish'd it the hus fins you:
+Betrare  
+ --- End Sample temp: 0.9 
+ 
+ 
+ Start Sample temp: 1 --- 
+ CAUEENARO SARE:
+We weile marry York-he selike who waul this he she salither we
+I nauble; Aubitalan beign theneen and eather Thou shall their
+we perciasize of Sain's as he may said Aufidius oot then thiscine me they,
+And thou but said Piuroldion you'd an eass is shall bele
+Tords wilt thou dine, a word comparded cheign,
+Or now our purpose God, and
+A chitue your inselo?
+
+LEOWIN:
+Noth all should thou I we'll coulahury a word most
+And shame though youth you; though the
+Dine--mouth a baight, and igpoor me manoment!
+Bat, beach yould saire, oath is repaigh they this' doughter.
+
+CORIO:
+O, die; so sears he untore thishe is,
+Whithereller; O tork dones ig agay.
+
+CORIO:
+O, why I Aust, in our clorour use his exame of the rafe we
+and they hine there been thise is a losp, I cank'
+
+NOOLEO:
+I that the mishay withouf
+Thou art my son? She-whiles of your fles: I witnle.
+
+AENHARICS:
+Thinelied eather, an Batithan! He't slumstain,
+Here is will unlamine there say,
+Enain they then undert he hall me this;
+We prinot he shat those brother, I'll fine upor
+He're weok wife he git the bod of Comiriuit? she he washolen
+the hisbaum'd the pitious withie,
+For there's I say your looking-are I bear he, my hear eye
+Of she wealth he opporsed them you
+Secile a friet is could poor
+Bechix' think thou'ss thou he'll will I waken you!--now she other,
+The pass beire this, or there what fill his homaly he swall!
+
+LALENICA:
+We she liads me is fins han everen me son with
+me said this we love the justion, then,
+
+KINGERCBETI SO:
+Sike it Exemen! Qaveobe--
+Then they Angelour unnieby me she shat
+'Ale thought my father beary eye-look indeed,
+Nork then he was he hath but like on Edwar?
+Think is he he shall you said thou coums, ann nothared
+I dareen me but keep this, eiche?
+
+DUCENISIO:
+The fach own fuyner, though he shall read yours.
+We'll I sone thene'ly giles no more we Enwas you;
+Mad is the kinks Apolle, beagion in;
+This shall give you exteit' you hepeed in hath senane:
+She Butty give me this is kinoup boldal of a lop
+In 
+ --- End Sample temp: 1 
+ 
+ 

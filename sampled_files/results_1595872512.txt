@@ -1,0 +1,312 @@
+ 
+ Hyperparamters: 
+ 	 batch_size: 64 
+ 	 emb_size: 16 
+ 	 hidden_size: 256 
+ 	 seq_length: 128 
+ 	 learning_rate: 0.05 
+ 	 epochs: 40 
+ final loss 5.348368821476679 
+ 
+ Start Sample temp: 0.2 --- 
+ 
+ANTIGO:
+I am a salis no such a salis now she is not so heart
+And that was I have a salas not so so so hath heart
+To see a salis now the man a poor son is a such a such a salas
+And then a bawd a thought the such a salis a salas son
+And then the offer the such a salas now what is a sort
+To say the way to the way the sorrow the court,
+And when the such a same and then then she is not so hand
+The such a soldiers and what a bawd the such a sa
+As Tho done in the said of the course
+To see a son then she do a tower, and then then she is now
+I think your heart it is the such a such a salate
+To see the souls then a salate and what is the war
+We have the see an offen of the such a salas a salis.
+
+LUCENTIO:
+I am a such a such a see another have so sort
+And then the sons in the wars and then the souls
+That when the death the more that was not so hand the such a sa
+Well such a such a subject of the man as the sons,
+And when the such a salate of the death
+To see the such a such a such a subeline and what is a bawd
+To see the more that was I would thou hast the such a sa
+Whe she is a salate of the such a saman and then she is not so so so
+To some another she is not so hand then so hand
+To see a salate of the such a salas no make thee as a such a sa
+Whe more then a salate of the such a subject of the such a such a salis a salas
+With the such a saint Confent of the wars
+That she is no more that was a thought will so well the such a sa
+As Ho you shall then have said the such a such their such a such of the man
+And what she is a such a salas sons and then I was I think your heart
+To some so so so so 'em to see a sort is the war
+The such a subject of the such in the man
+That she shall be the death the such then she is not so hath heart
+To say the such a soldiers and then the souls
+Should say the sorrow the such a such a such a such a such of the such
+To some a salate of the such a salate of the such a sa
+Whe sea should be the dare the man that she would he would thou calot
+That was not 
+ --- End Sample temp: 0.2 
+ 
+ 
+ Start Sample temp: 0.5 --- 
+ 
+SICINIUS:
+We are is so so so in a prone
+A most any what shall your which in the earth, and
+Then the rest and then I that she is a worthwing
+To such their part of the tongue as the seen I have beinaman
+That she is not one cousin how a may though your part
+To make me the sweet as I think it is not thence is loves
+To wise to do not what the souls then that
+That was it not so hole me be brotomen so so
+To breast to a brother than the share in the speaking bet
+Wither she is my soul's ear to say so many love,
+So make her honour's love, I have speaking and in the lander:
+And that made the corse the such a son in a court.
+
+LUCENTIO:
+Mistreas a salitenet the salate of the tears she do are
+To be the hore how then paint her bray then so so sheet
+A mear want the subelines with the city
+To say the rest whose word is a sea word a poor lord.
+
+SEBES:
+I am the perent he then to see here I
+I mayow in the such a silve a tower with the hard and then it not
+To do a thought so see in heart it is the such a such heart
+To do do your see a forthout my agains
+Of forew good sire he so so so I have seen the cause who in
+Like to say it as I then the while is read!
+
+ANGELO:
+I would to do all the daled so many men to me be so queen
+To paltion of the time to then have some good
+Is the lander drum that was I to the wore;
+The solden of the what she's a thought the which a siles
+To make you have been benin the sake too good her for how both
+Be as the warward I am the part:
+
+CAMILIO:
+O what she's be my daughter of the silenow
+That was now I have been my such hand the duke
+A messer that was it is the courio.
+
+POMPEY:
+I am the suchice of so so I hope an offend thee
+So man than the god of the man all the words
+And I'll not curry he was not me which now when thou art
+The musiciant it is the way in the crown will happy for all the sons--
+CAARTIS:
+
+GLOUCESTER:
+What make your part:
+
+CAMENTIA:
+Marry my lord; you are no more that then I would
+I will request the such a saint Minon way to the words
+The down are  
+ --- End Sample temp: 0.5 
+ 
+ 
+ Start Sample temp: 0.7 --- 
+ Forthould I before the bring a grave
+The what light some banished went
+Spead op my houp your honour prisonaced
+So lane hate I packet your vim a prefort
+To do do you such in the said
+To Englishmen 'De'er now it is my see my hair,
+The such then she'er I thing your child of a chane angelow
+Of the authuced in this course of minders of the death,
+Wey an in the dead, if your Tore bring
+Lie the prince he'er that shell here is till chast the salison
+A mes and thou wilt have our brother a seen so here it?
+
+ISABELLA:
+Me it is a such some sirility I good
+Come med for no man shall have mes the time of whose ent
+To way then we thingry how calount
+Will as the duke the words me so?
+
+SICINIUS:
+What was I am an of the dase,
+Which will so hath what is the officer whore,
+And all the such theme once then then the villain,
+Which he could the doubner again there will this would not
+Buth suchis a mers a batter such such lops of my weat
+Than whom I though say so far't
+And beseech the gods be her hand as would will dissendor to the done:
+You'll make a saling are tiles go alone.
+
+ASCABUSET:
+What I shall bear the such you be teke to gie:
+If hath faurt a beat worthit my heart'
+there as thou of this fair lady as such cousin,
+And speak then another do no more
+As Hoth in that kind of any see thee, as the more on them
+To see you to goating all the cause yours was
+Mad I am arrison coraus, this is a madam as
+Heaven show then worth's not so shee,
+And then so earth have for the such comal of,
+And I would not love to me, as can do will pain
+That was not in highnow' on the love your advay
+With the caper than while me so you; more ratience the
+ore other though the sould I mighty in prince with my ten thriet
+And if the pala, but thencier what you cal,
+Come, but to see him then to do
+Be host not the visew good they would his spiriat the ore
+To take the ore to tell your bristress upon my dear since.
+
+DUKE VINCENTIO:
+Thy dear make the prison Licentio.
+
+ANGELO:
+Sin Hortens' goanny has heart canistis a plot is 
+ --- End Sample temp: 0.7 
+ 
+ 
+ Start Sample temp: 0.9 --- 
+ 
+ADTIAN:
+Tenry if I am speak, sir, ofheramen of talkse holos
+To bear a does good queen to rage
+And would have renisherop'st thou will writter
+To bun basinel with this king' be enougance.
+
+COMINIUS:
+Our how not a would part
+As Clopes- a reposs' offen down than she sine here time upon
+Bight my house that Sherelor here when shew it so mar he food rawn
+Having me again in my good cousin Edward hand it after
+To fear me hath so: that said Most brair and no eddeed his that was
+Tent and Ime again Someroe as upon that,
+What or Montagut is the richors
+and then when your friend from the such so bold
+Like them for them, this deed-feathat; for whou comes
+That, I would sailly thy comfort as she'd when though
+Take of boots he wisded now whone ase we unclo swall our suat
+Till he being a caquet-die: my his hear you.
+
+FRORIF MINGBUGBY:
+To-mort' of my bases aught do no heavens
+Of York mean, in the ever, our good Camillo?
+
+KING EDWARD IV:
+Ay, to will misforash an littles
+To to know what hath the meant whereel what
+Of the what's the chamity what what fastasterr me too barious
+I have in no owe then our hurth,
+And to sing my lords, an I horse you see
+Thy way, It is the daughious Dear,
+To the very dangerous honourable!
+
+JULIET:
+Heare the what you have now thou know be your sorrow
+That till then my favour to what's agains.
+
+PEMENTIA:
+On ad it not Edelived of an the bring told me, entreat
+your heart with his now you are hear; ray you?
+We was the righery gerie, as here a pathan shear you and
+A son, 'Tis the subbateen--
+Sithan Warwick o'er not then are word an ens
+Bese your dogy carcas country's son.
+
+RETLANI:
+Here what I'll have callowish'd the pridot me.
+
+ISABEL:
+Best nothingration doopispore Juliet.
+
+LORD WILLOUGHBBRY:
+My nor mine imer to how walk; aftering your port,
+As erperaes now one thoughing he in minasty
+All Link's 's Even a loperad; and till not so heart
+And whough enough wheree theight you should she
+coming here of the suchile: we should be too: I may speaktance to-my sorroment
+That 
+ --- End Sample temp: 0.9 
+ 
+ 
+ Start Sample temp: 1 --- 
+ 
+COMINIUS:
+I will rour in teime, one to your leavin hers.
+Was a generaed; the rest
+been us to hooren are a trime arms
+And then I have I am none--
+
+MENENIUS:
+An old Willich,
+What thou the gin what way the often I shall now,
+We sharping sig's net the suppiti'teratible
+They who be done a dogy me, nor thy part
+To love it a bosyor case:
+A
+Meed of such old heyes dishoners grace hard-in the Ducind
+Of mean what our rarcy sacrook, as love it, a bount I,
+I do senses Menedion Virisorve ho then
+An the sort with prispartinind or tenmuck to set
+For the Lord of entertaught:
+Youngeit its doubder have so much looks gentuight:
+And, ask the ede now.
+
+PEMMEST:
+Pore' a nower Beonian see.
+
+Prowoe:
+Sapul tears
+To him live: which'd in menable many peace,
+Then dirly I must now I thy kead mine eyes
+A thing I themphanded in the hope, then:
+Bovilament-upain's lawy the eay bid for Gauntabe so say therelf good speak a
+hose Nor: a thou may gerty EDwars it is to take thrabt!
+
+SICINIUS:
+No, Lordot he would bear the agroon;
+They alorare will not villow'd terain't sheather,
+How say have the done us alone;
+For she is myself end a morture.
+
+ANGELIO:
+That I hate his capelf she substake torruse?
+
+KING RICHARD II:
+How came me willigh'd meing, but I here Richard?
+
+GON: Hoke in our redent is any kill take its o' the citaze Edwardation for York I sa
+Even about to make in a righate's pule: what's
+then the acend joundaptian.
+
+DUKE VINCENTIO:
+'Tis a mortom calounce at tewer's will?
+
+SAMES:
+Sir,
+Anon whistake her courity supper'd
+Enclank angelop'd it kiugh?
+O slaulo: I do I tongue I am.
+
+AXITABEL:
+So cririth our answeration wither seek.
+
+LACENTIO:
+We will realoner in the dew Thue that he'er that
+Farpis away the booter how import you, 'em,
+Be he will could be honour known
+within fair Court:
+I pry the bild giee too salay then meaningbrower
+They hipt in those citiens, thine abearing of it?
+
+SICINIUS:
+So else I bear thenein morelys alone.
+With thein down that couzs thy kinglatcer is;
+I will mean for samo.
+
+BENENIUS: 
+ --- End Sample temp: 1 
+ 
+ 

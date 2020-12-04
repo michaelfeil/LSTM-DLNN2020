@@ -1,0 +1,333 @@
+ 
+ Hyperparamters: 
+ 	 batch_size: 24 
+ 	 emb_size: 16 
+ 	 hidden_size: 256 
+ 	 seq_length: 128 
+ 	 learning_rate: 0.05 
+ 	 epochs: 20 
+ final loss 179.86970924964317 
+ 
+ Start Sample temp: 0.2 --- 
+ MENTER:
+Now will not be a sines the constant to me
+The day in the woes and soul in the company.
+
+Second Corsis:
+Where is the woess the worlow shall be the death
+That he come to me to me the charge to me for beas
+And so make her access the meading the world.
+
+LADY CAPULET:
+What is the mean and the rest the world,
+And so far the constance to be the death
+That the rest the chat with the consel his soul
+The woes of my soul and the case and the rest.
+
+LADY CAPULET:
+He can see the woess the woess the seal him.
+
+Third Citizen:
+And the woess the woess as the man of his lords,
+And so more to me the constant the common
+That the sear the consting the constant to shall
+I am the bear the death sour soul again,
+And the rest the woes of his son, and will not sour
+The woess of the constance and the woess to him.
+
+LADY CAPULET:
+What shall I do we can have the king to here
+We can have the soul to the cousin the worsh
+That he can the woes and soul to him.
+
+BENVOLIO:
+And will be the day and sour and sour heard at
+The cousin the child of the woes, the heaven as it
+The cousin the heaven and the dear to me the death
+That will shall be the constant to him.
+
+CATESBY:
+What shall I the trumper the wouse of the constant
+That the woes and the woes and sour and soul again.
+
+LADY CAPULET:
+I will be the woess and the woess to him.
+
+Third Senator:
+What say the heart the woess of the woess to him.
+
+GLOUCES:
+What is the mean the const the woes,
+And will be the soul be the woes to him.
+
+SICINI
+S: I have the more that the best to be the common
+That he will be the father and the prince of heaven
+The common and sour of the woess the father
+That will be the world the woes and soul thee
+And the woes of my soul the constant of the death
+That I have the crow to be soul in the cousin
+The heaven as the constant the constant of the soul
+The mean the woes and will be the woess the world
+That shall be the constant the constant to him.
+
+BENVORIN:
+The woess as you shall be the dead to him.
+
+LADY CAPULET:
+What say t 
+ --- End Sample temp: 0.2 
+ 
+ 
+ Start Sample temp: 0.5 --- 
+ ANINA:
+What sorrow he was for now shall be me une
+With all the king one double that she come and the
+me one will should we have a sea the dead:
+And will I pray off you come sorrow to actisure
+Ever not to be a shame be sound the head
+That let the comman disoner and be he hath
+That he can that have made the patarding are
+send a soul and treas name doar to the fair
+That I do make had in the soul and till we would
+I am too and soul the good be o'er will go with the
+will should not sour men the duke siness and
+give me to my lords and bles with account
+That in the sound of the constant book to be good
+By the duke of but the propost and sines
+That take her book of him.
+
+SICI I IS Musten:
+And we would not sour the conscior their son
+The sun in the siness be a brown to speak,
+And some be will have now or he will be come
+The waet the daughter to the soul of his soul
+That he think one soul with here to me with dead,
+And sound of long here I am too men the const
+The meature the wood should breathe disses one for all.
+
+DUCHESS RICIO:
+Alains, and so make the best poor and one
+That have most sour that all prisoner than I
+Were for the fire and sour soon to kill it with
+And the rest that we can hope the soul the king,
+And with me and true comes wife to make me look
+With and the child one our instruments, and never
+were come of the father be weep with the should
+To soul the change of my consent for the rest,
+And sour and sour woes against the subjer at all
+the daughter can never brought with she should come
+The pack and the have now do thy hour breath,
+And sour to be sour honest like the charge soul
+The woes so does to be the change be soul
+That the day with the dear the accused be looks
+I am to prison to be the hearts sometime,
+And then have sound the crown in a more beas too
+And that I am not be come to have me about
+As the teeding with the house of from cases.
+
+GONZALET:
+Away as the woess the head the woess,
+The consume not the king to foulled soul comes
+This is the fees the comma 
+ --- End Sample temp: 0.5 
+ 
+ 
+ Start Sample temp: 0.7 --- 
+ CAIN:
+All shall be the woesh'd with the arm the account:
+And now respy hour sile least to disser are we
+live to this each not shall never the crowe to should
+The fresher person bad the seem.
+
+CORIOLANUS:
+Being the moon sour a rever good one musice:
+Turn proclaim come be a throne that he promost
+To have we be had it of Her a man man
+To boly as found appear high about wish a
+busicer to thy beseef do like
+Whom shall say will not good advance.
+
+Third:
+What is the matter will pardon the dear
+Being now we will be the sigh and dimbles
+mather shall have so he can with will sweathed
+To him, wise and make here but sometares bound to die
+moes I plow the will faith of death. The woes too alsered
+Shall shall be paraoce of he had sight,
+And want the light of my brood, 'tis digs,
+Be paties the king make here false with all:
+I will lose you, bur my man and provise.
+She' leave so our deporm'd the warrant for the wite
+That of his house of my soul me are lead to
+
+CAMELLA:
+And you not, to our comes should to three is a groot,
+Or where be it be the woes of me?
+We are they and with some our master with his son't with heaven
+in the oracle of the king as he hath heard house
+To caps in the instrum as me here hour the mother
+To shall seen so like a sail like sweet he rather
+And the day as is now for the beaster? I'll have
+I know the hate be that the loss in the cousin
+What I bouble leave with him.
+
+LEONTELO:
+'Tis you wish me in, we arm in the worse
+Muse keep the darge the king to did with we king.
+
+GONZ MENSARD:
+That may be the duke and the heart of our commandy:
+The common that and me the fickles should
+Will proclaim poor consent to chat like a meash,
+The will both you one that the least the drands?
+
+CLAREN:
+I am sornify time but for be cousin, go,
+Who hath the rest the would never marripe
+I' the first the duke of sounder are you to makes
+With me thee. I know me about the witness case
+Look his book a crown as we should be ready
+That indeed the pity shall be master inten
+As marry shall ten t 
+ --- End Sample temp: 0.7 
+ 
+ 
+ Start Sample temp: 0.9 --- 
+ CENTIO:
+I know we could sees me profpes, with trick fled
+in his weepest be merry to my help to be welcome
+She will do you kelle do and all apporict
+The crown'd undon me come to your place at Cleren:
+The basmant the more strick! she should call albinion
+The world hath found have not we would not the hour
+That Allow that dare a word piintation
+death fly this sin, antet ears can he rames of his as
+To rubes no more again the mostals''t impition;
+The oall empect their new dave
+That sait, the day for brown here:
+I am sure of child! I carrant would will not he was a
+preys would I not their house one, I had learn my
+cioled of this head thee, quick inteikn:
+We for something, and tilading come swemting our abock
+no sigh would inles not good taugh to the fear:
+Even make his boocal little day constance
+Have I term be to-die you now. 'Tis,
+Pood was may nought Take the rick for me, and
+I was unmirance, to Pe airy and do day one;
+Cherear he revelling fing we are thee both!
+And in this ill wine this hand: you shall may as
+O mearing sometom profiss
+That have well for now we have sour toace,
+Wonter him, good my postes will faced
+Was won of this pleasure left actiole,
+With adare comes soul ope somets curse, a merdines,
+Whose besy beep want whose fire occuased.
+Now he may we tell a more mine on thy can
+But more fous, gove to tris world he the deald.
+Touchmend forbing to done soned good in it man
+And gilds upon you will be conselves beg
+Maresines or no sights the day that he surse tae ton;
+I heir the mates dill by hourh's undeedsh
+Die you dost there he no case her dineral.
+What I think, kiss will now do;
+This act a scien shorlects that is sour power?
+
+JUCHIO:
+
+GLOUCES:
+I hours carry come inneed, rain not in how:
+What spak an sometime will faint, wonder under traitor
+By dear--foried I mean them of thy respectmit both
+she tell youa dode let will be demends for shall
+I am cad he windss his change by dow rieish so son,
+To maid the daughter ten me in the inforition access?
+
+QUEEN MARGARD:
+So 
+ --- End Sample temp: 0.9 
+ 
+ 
+ Start Sample temp: 1 --- 
+ ANITI K
+Sull Hear win, the try indeed, fambered,
+'Twat he Parging not.
+
+ESCARLA:
+Good master blame speak how the cood, fool! O crowe
+Pass mast smur is outs we have leave too rebury.
+
+SEBASTIO:
+This are this? Sorray, rogest a shame, we see.
+'Tis beseeping the consixe to wear forserent
+As profide and passer, that wa us.
+
+ISABELES:
+Are algison of them doth but wisole.
+
+GLOUCES:
+
+Third ELINT:
+Yea, no woosely go jewall begetin-'s love.
+
+VINCENS:
+Ay, but son to the fine to be apmeriness.
+
+GLONCE ED:
+And, sie! I'll ne'e how we shall have come one the entraise
+You have me unjuse over upage of our winds,
+That will say me a dave to chatio?
+
+COREONCA:
+And you will be your own poes, are excimen,
+And Kate be deeds of my gared.'
+Beival, cheear the triniz kill me; you were in the moar!
+I do noble consired that the consity,
+Making, in please doys of the prince like plick very
+Tranger blower: reasons;
+Forewis upon the Capial have abhard;
+You mone and all the way: the reds, keep too
+Sigen.t all will said Aufides one gurles at it.
+
+KING RICK:
+Now will we may be musright and wife prayer useds;
+They like case Papiss:' but shall's hangs by die
+queen can you callingy you part, and keep not
+To enemy will sweat dispate, make your man hols.
+
+Fordast:
+Har Jasmed there shall not couns of him.
+
+SLe Reeve:
+Or thou shalt we say in their in his esterch'd
+Fast for the one of his trislop speech; what,
+Rines a woess of somegites hath land be jooe,
+And so having a man confess, and take bane.
+
+ROMEO:
+We call us once my case are too ary.
+
+Third Capparis:
+My less, a crow tale upon our line, in the rack.
+
+HORTENS OV:
+Now will you will swill.
+
+YORK:
+Happy of Warwick; frateir'd moor of my face;
+And pleasure woring Lucentio; but Romao?
+You rocief aponable soun.
+
+SICINI
+S:
+A gone.
+
+First Senant:
+What wilt thou undivy as the woes, at him do not,
+I meal sai is queen' where crow loss.'
+Foaw his, soot when thiur may both the duke:
+Last forth enciest son'er me breed to must woused:
+Simple most bucker give least at 
+ --- End Sample temp: 1 
+ 
+ 

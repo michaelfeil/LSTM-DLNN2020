@@ -1,0 +1,356 @@
+ 
+ Hyperparamters: 
+ 	 batch_size: 64 
+ 	 emb_size: 16 
+ 	 hidden_size: 256 
+ 	 seq_length: 128 
+ 	 learning_rate: 0.05 
+ 	 epochs: 40 
+ final loss 4.706420131173215 
+ 
+ Start Sample temp: 0.2 --- 
+ 
+
+LANIO:
+Where the the be rot his cour the be hear to be rear him you hour nou to be rous and pous mo be rous of the me hease will be rot
+The cour the cour our hear and the me sear and the be row
+The pour the to be recome it you and the be our and and whou to be rememememe is and
+An I wan my cont tho be recome is mall be in in min me row
+The will be rour the me he sou and the me row
+The cour be he to be rogh to be rouse hear be rous:
+The will be row all be be rour the be rour me douse?
+
+LANENIO:
+I want is and and me doud to be rear our to be rous:
+The sour the the sou to be rous and he le our and be rous and he to be rear to be rout
+
+MANG RICHARDUS:
+I with so be remembere to be rous and pour the me be rear and whe pour
+An who be rous louss and pour me our and pour to be rememembere
+Tho be rour the the se rous and the the be row
+The sour the to be rous and be is all be ming is me rouse our to be row
+The pour the the the co the rouse hear nou to be rear he be row
+The cour the me rour in all be ou and the me to be rous our sour and
+An wo be rour sou and the be rour to be rear me me our hour thoud and
+An who be rear to be rouse the poure to be row
+The be in and be be rot his and and po to be rear the mas and to be rous ou to be rour.
+
+DUCIO:
+Whis sou go the reare ho be rome to be rear hour for the the be row
+The pour the the the me he to be rear he to be rous of the me hour not
+
+LARIO:
+Where the the be rour the be rous to be remememembere to be rear our and be me hear ho be rous and who be rease to be rous our and bour for the me to be rous to be rememememe is and for the be low
+The roure is and the sou to be rout
+An the the the the thou to be roure is and the be rour sou to be rous pood this cout
+An wo be rour to be rous of the me pouse and be me be be rouse wo be rour and fo be rous our me in to be rouse will be rous:
+Whear me to be remememembere in all mine to be rear to be rouse all be rous hour whe me low
+The cour so res and po to be rous be gore it now
+
+LANG IVIN: 
+ --- End Sample temp: 0.2 
+ 
+ 
+ Start Sample temp: 0.5 --- 
+ 
+IN chat Citize it:
+Whis me rove, who poome him wo be reare thow thou be pine,
+
+LANCINTA:
+An to be to be rewor to be rous whoud
+An whis kan he rogh you souced to be re grou this doust
+The dour this boie paring is all min se he me hear.
+
+CING ADWICHI
+He Gou hat to be remememembere tho gill be more re une of thou wo be cear abe to be peeme it Pill,
+
+LINI IVI RINI:
+I wane mane not to be reame wo be be row
+An to be rear prou will and you now
+Non now like it a lit in the ou fangh is the pour leale sous fore you and who pe roghe to be ceat
+The has him be ruso it nou hin greir and ou the sear hear me be rot
+The sees and mo pour the be ege to pome,
+And lou ho is for thou will be cour net
+
+ICENCUS:
+I wan and dow this reashe ne to be roure
+Whee grou har me the Gou ho be rese thou tor to be ming to be roust
+The love hit of to be our a biess,
+For the the ou dow the be cood in the couth that
+I will bure nous sou to be recome is me be our soy
+Wheas mo low him to be reave is all be lake the dear me be reare you as me pourome it now
+Shear cont in and this sog to se be rie,
+An to but all be it and cout hit
+
+MANTIO:
+The hall tith be the be be con go be be rouse the rot
+The our prou sear cour he pike be gore to the dow
+The will pour and pon the be ou ave to be will be rease to be head!
+
+QOUCAR:
+Whe here our not for sour fo be recoor to be our he rood in not
+
+DUCES:
+I
+Fe wo shou is of the be rous all be mone min you hood of how
+The this ou live hile dow I what to be be it,
+
+LINI RININS:
+I wan dour that wo cont is me poesse ho be reas and lie,
+
+DUKEL:
+Fro who mand sour is alf me ou lot
+An to be cogh you lotte have it foul to be reed
+That ho sean in to be rout it mand ou the doue.
+
+DUCINLUS:
+As is low in this mad to be reomber and
+The sow to kall with so in heas the por tall with and the sear a sous,
+
+DUKE:
+Byow'd our bour you to be rey to dear and be he dow
+
+LORUSE:
+Whe be recine wo to be rous ho le seave wo be hean,
+An to is mor to the rece all mine be be reare joe to be our bood not
+
+ 
+ --- End Sample temp: 0.5 
+ 
+ 
+ Start Sample temp: 0.7 --- 
+ 
+BROURANTIN:
+A
+
+LARIO:
+
+Nuld VI GUCECHAR:
+Whe Glous cot ham sour fo ventur for de him not it to dow-
+Dy som I hand you andor sour all be sucgapes:
+Moof min all perin joy mas wo be beswhee
+Co le soush he mou as you lere me kin my porle,
+Fil ho you nou git cout lead bor sou gread so but hake?
+
+GOUCIN:
+
+Nund LIRUCINA:
+The me he bag,
+An aral not!
+Whe yow hit with to is mo sous to to be out unaak mat
+
+ARIO BINCAT:
+Gore who be redans, be kan mise,
+And is me pool I's whon the doud litingt
+
+ISINIUS:
+Who whe thea to me gil joue of bo co hal low
+O will me kin ke be gout and foaliod 'co in my rous dour ne pear here hang to good ou a's and as por
+Twis sho be rog to let it all soug he nese to be is ou our be me soup he roin jond
+Whe so you to go ho but all all kis poot
+Who, I wan Log were the sog ho pears fur sees to be of thou to be piligein,
+
+MACIUS:
+Whis in if, my to me rear be head you!
+
+Nut VENCILA:
+Ay hear the peny loud the of tike se of hime so-
+Tho re to but is are sow our died;
+
+NUNUNP:
+I
+Leale it:
+Lo all mill mine,
+
+LARES:
+The seas of in to pighice it,
+
+
+EROUCO VINCHAR:
+Whoon be cog in is in ina mile now
+Whis sool shat him all do righe mir nou tore bat in cofr pow
+Thut ou qous lad to to be rourad youn the be esar not our wake hit
+By pall be rourhe in our down af to min ou not
+As so the doule so mow thoin eur me hake aed cont
+Heale a kile go will be cease you our mis a doure be itror
+To weale his to dom and dot witht the le sour in I'n
+An rake exiak of and me pame me my digh
+An be rece give who burur mime of to be roue.
+
+SONKEL:
+Whis fus mare yo reaphe thy sear your what sou,
+
+DASI BINAUS:
+The and to golly in por but? I of thise walf wo be lone of to eur
+une be fear ou chou all he here in vorn
+An you neve to heace you sour mor nis,
+An be oul min.
+
+SOLOUS:
+Meach here ave to be rog in hive will bo hik sou! I want
+Whan his kill fo bin for eor ho mur to deare is good is gho and
+ASt fo peare fat hear be goo mor fid you hor will cogh
+The cog to you tean I wanise bo bie is wol 
+ --- End Sample temp: 0.7 
+ 
+ 
+ Start Sample temp: 0.9 --- 
+ Stor, I'p ye se to he resepmy be with our make thee yoa bour.
+
+BOONSA:
+Whis ke thice ao how Shour proas our fu here the mare our of it!
+
+LAUPLO:
+Whe for sho be ouch oor noch.
+
+AnTIO:
+I wo'd pauthe to be proo,
+Whak is sou efe meie he mo be rofse? any karn her'd rico is noar him se shau.
+
+KABOUNSA:
+Whin apag itpir youts you eave fo itly your
+Whin, who be fome to Beemmemamed,
+Two wour pome in you,
+
+FATEMHAS:
+Him kore icat is veny ame in and
+Aace dily fare tiloor now hool Tool sho sepse?
+
+Nom RARHIR:
+No lece,
+When fore hil is soucom lio ilat
+sor mat ale, an nogfor a mane not aul;
+
+TINCENCES:
+
+LARANTI:
+A hain, go bakd ou our you,
+
+DUKE VENKA:
+I
+BLI RINDAS:
+That it, it, bur dog yo, whead sund sool to-be
+That unmir har nead ho hithe time and by air;
+I with toy doud withs chom, ull me ligh thy toud heary anf's
+This chood mis? Bwave is mit.
+An bour ale not he nestory aint
+Memadchion mo whis mad willl mo,
+
+TARTOOO:
+Theo woul winl pore; wo pous
+so agring und dot he lear houl in thou erood te the hear?
+Thin niun youd sim fo kivy boud not our I call go so ag and
+The say tho peare sour nemese gile be peseam.
+
+DIN:
+Who bure me poowleett titht,
+Hor nowsser if a mik wile epraid it,--I
+As couv'd sou and sho ne, but to I pauve this dond,
+
+MFUOO VANIZUK:
+Tho hear timar onp in fo thoule of and
+For by go nows il to ke kour I sousth
+Deed sou hor jok to bis you nowfolod and my elmow
+Who pie ele pobe po uve good voud all mous com!
+Whal tho is lion an jough hime it all not
+For him re me poure dow his our mas he reabe so be fear?
+
+BECIZAO:
+I willas, I lle sim willime bore pithorlae dis loet
+Cay nos urly is low it you gere erpme bave eow
+That litiol tho wo dor is you I wald is me foud;
+
+LONIO:
+On I kall go wo wo dome not
+An you dop you, he peetlir cour meed yon arat
+Fabe sou't'se if to my luway
+An no pre dous and fo ag the ronds:
+I wan she Grea is
+Y
+Nichas shat hak be rofs min nows? 'gofse you what ard shou to bitsh
+Hor it mow with wiping I so cuigh
+The comis dow will be re you as touy an To b 
+ --- End Sample temp: 0.9 
+ 
+ 
+ Start Sample temp: 1 --- 
+ RI HAND IOWO VINA:
+Here kre kar to it und.
+
+RONTELER:
+Rey rakse hour, 'ilim.
+
+DUFCES:
+Pomar you say to be rot all os feasal neme the
+Che sesou not kilf repworr on puse to gay not,
+Am:
+Fat be frout dos whe I hav hit
+Of I caol he cand eplee theas now,
+Chee cebint ko at sontse? why deilize doople de fare ot rece noo afue much? For my bad,
+
+Fithizithe ritazen:
+Ragne
+AAN sew
+Lu romwomed you maty westle so,
+
+PONILWEUSA:
+Reme hitk andold to row
+Bes andom he susim mo he wer le ke le.
+
+LeABESSUS:
+Beldeae sesury nithour tille as hull hens ou frhe eom in to be cucu.
+No to ke of thou rearely of make,
+Hho becsay morie hit fint and Whow with thas fear all mow
+Tho not a botoul give wo I lie it,
+
+GUEEFD:
+By
+IN to min culd as uod llomy using ae
+I lut Mog his pamirarie lise gith dove pas our I rome is and
+Where me gho rive to gere pof rok douf-y
+Vo roud nouthil tillaed ut near outen: you mur seary
+Thy sog in our noo me will mo wo for out noucey fort, I What'l ho gow!
+Sh ho That tis updoncO lo engout; u hip hat our,
+Af meed de ard and dide the be we shodd-Thee I caus the to be redein, I I you eun tirats'd of digh
+ICle cow ho wero has hat hipn a dousalst
+
+MUKULU ED
+C
+IN EI SO
+No nok powfagh
+IN dot to me is noy searte o arow
+Wo coghignine to bur ghou,'s ow Lor? Rowrow heave ou toed not
+Mos Exedar, and not werinch, I
+
+SLate GSRael tinle Ralll jit
+Heand it, bat to be dik wore. I what
+sloo yot kins anows all is mint fo of. Pixho
+Whill Move mo gus pom Heet to wure, I wiy it nove fo rass peak;
+
+DoRO LIUGSO:
+
+ONRRAUD:
+Oin tis poms of ve pood toule go it dim
+Ad I hanse arigeforien eat amt
+Thin bhore wits sheat home wo if this rewremed!
+Hik soo to pliche,
+Nod dis yo se cee ming beny lut.
+
+BanUIO:
+Ny the hearace be our't cias ste hichy ke ot that?
+
+OLTUMAS:
+Whis clain to be bu goebe.
+An Ro you 'cery bie'd, thus son bushad nombe ou ad,
+
+HASIO:
+I me, so i wame dasine; San too'che-
+ByO Man:
+Bedame in wo mas soeik,
+Tou ac ligh in my hit the so.
+
+DUKE VITINGCHACIO:
+The dof this will mir louds ood ho  
+ --- End Sample temp: 1 
+ 
+ 

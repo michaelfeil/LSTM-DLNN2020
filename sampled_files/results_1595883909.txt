@@ -1,0 +1,257 @@
+ 
+ Hyperparamters: 
+ 	 batch_size: 128 
+ 	 emb_size: 32 
+ 	 hidden_size: 256 
+ 	 seq_length: 192 
+ 	 learning_rate: 0.05 
+ 	 epochs: 80 
+ final loss 28.611935003276894 
+ 
+ Start Sample temp: 0.2 --- 
+ ANCESTES:
+I what the sping the have thes the promest the have thee speathes of the have my thes then live then my sherest
+The dord the have thes speck the madt then sarst the have thes speck the his speathes the spall thee
+The have then the have thees then thes then the darther then thes the comest
+The dake shall the have sperest the spart then herd thes the have then sords
+To he noth not then lave thes herded the speaters
+To the then speake thes the his speather then thes thees and then
+Mast that the have then sarst the have thest then the sord thes the prowld thes herst
+To heart the halll sord the that the speck the have the hat heart the spart the sonds thes such theed then thes then thes hat thee surst
+To have the have the san thes herst the have then the shall thes therest thee then thee then then so thee speathes and then
+The have thes speather the spant then sord then that stare thes the have then sord these shat
+In my the sarther the have that the precks thes thes thes thes thee sords
+To hourt thee shat thee shat thee sarst the have there then so the hall the have then that start it
+His the have thes then thee sord thes herst
+To condull thes the speather there then thes shat thes thes the have then thes thell hears theres
+To have the shall the ragent then sarst the have thest thes thenger thes then so the spart then thes thest thee.
+
+PLOUTUSTES:
+I will thee the have that the hourd the rake thee strech thes the have thee sarst
+To the sivent the have then shall the have thest thee strather there these thes the have have them these thes swind
+To have the have then surst the rack then thes then thes then the have heart
+That that then then thes the surst the his spow then the his spead
+To have the have then there the coment then sarst
+The have then the rack then the have thes spome.
+
+LUMEONTES:
+And then sord then shat the spall thes the with the make stords thes speathes therest then shall herst
+To have the have then shat thee sord then sich start then my lord
+To 
+ --- End Sample temp: 0.2 
+ 
+ 
+ Start Sample temp: 0.5 --- 
+ The frath thou as it thes strace
+The sentlent the rarty the spatt her have my thes I beting I mast spest
+Thes merves my no hand winlly thee I searters ond thears,
+In that thou and have thee the hend as sharcordio and therest it thent.
+
+KORDY MERKIS:
+That heard on then condiong the arlech this marst
+The revers thee in heart theers and the itond sares
+Of the prave that I will theard to heart
+Whath thee stord lither fray the promt his sacunt a fords thousend to let their thou sordes and to the know then
+grow by the have thee dond
+This dort to my lordy thee sast that sorde.
+
+LROSINTES:
+For thes have then ford a prace heart and condest and himst therest thene.
+
+GRORTESTES:
+Marlest thou wath then hath thing that fares a mathort that what all knart
+Wist then the spinst as in thele of betty the suck fringy
+As spert as have spappet is the have to as thes bother,
+The swall shant me my such thelling to singlest then then dord thest the wat that
+Condll he wo the coment a pring that hourt thell that his the rackant
+With and theech to the brient them, your savle these thenownds that hast thes that spounds
+And Clivent is the ligh theinge thear thesh stather truch our to have to there,
+Fort with theest my theld the tondungest the to the concupt and therether sirse on the hind that
+His swall thes as the sorthand the all gricent that as a shall the hard that thet
+Heppreand thes thendorghather the rether come:
+And truit then that do to speld thes sord then you his sall that
+Hould the have that thet sonting that I sear, have chat sworks the dight thes I bating urirsuends my lorghes stare in hath theres
+To have thes heart my the have hearther,
+And my I I me thes blend there the sarrither swath them that
+His comenty thes sinsurids the hilld
+Withat the the that chamding the freeth, to hest in thees is my frow I carrings stath my thought
+To sintill thes the darringe in sarrie
+The cillores spectles that his bither these his to the rart thee live that doth
+That sorth o' hat hort is a broth w 
+ --- End Sample temp: 0.5 
+ 
+ 
+ Start Sample temp: 0.7 --- 
+ 
+KINGMLOLINLERD VARDESSES:
+Sor thes now it as the prore I woonge of prestly
+Whechit int thungs us thou nave mord dotion dey
+Thom budst of he is by to the wath the dord intingay:
+That I dudles of thourt that thet
+Whoin mant ampect betence and stomer, I will storle it hat murgh!
+
+COMIONSES:
+ANchers I And IFIUSTIO:
+Where'd to mesclend, noth youn the have dording all cracunt
+Thou gother and bedmangs it
+That I thet themerd not houll
+Mordy a mecond that thearthend youre hour to will hat as where,
+To wheres spen'st the, that cominges fraclich on my slisainty
+This buttured to have whis to the intret
+The pors us it hat well to thet sorm:
+Hus withen I thell I sy grow the pragung that cond thest
+Whipy thind have noth! wherch then and trutert;
+I what ford a brick Blignestly merst hourd-
+That swerest proke, I what I cast spand thenk it as word sither spow and is that such he crantinndest and thest and berst,
+And hourd to spall is shomy glath theer to my thes ment
+Wetperday that I since to noters, but freck and with seret
+O, you spont his that croverss of I thenced to have thand endle's heer
+To is of the shen bamdoser.
+
+LUFF CORCOLIO:
+Nor to thet the frowers that or spow
+Withand it I will that dorsh wither Mrave
+Whearly that I blive thus filllaby Parctarly sartingains frome atherd lost the bust they thou grast
+Fors'th say morgh and I like, forsugntle entprest thels infore of is shand coftorl in him theend
+To my that bet sor it seffly whand that theake's Hay,
+To then whis my lord he live my that he the I cast Rore.
+
+PLOTOELLLURESTERD GOMERSSTIO:
+My sarce of thee hill cooll-brow thele hat is offers,
+Frood his not mady sheres, savest thou
+'twit theer thou shour dods our dight therest as itpers thee
+To might darucht wall I his mirghtand wist gontory
+That mus sarch sud have you has your the have a beary not of yourghns?
+
+MERCELBESD PEPELET:
+IT Rarst sping in theret apward, and hent deesle make thund themerds mastands;
+My vothang contall dords thereds or thessertry;
+Onty is is not lidg 
+ --- End Sample temp: 0.7 
+ 
+ 
+ Start Sample temp: 0.9 --- 
+ kndow Butporghnly wown you Epcomthectlemt's like to have I Bricen
+To the sreptinca it all, them 'Disundsing yoursugh.
+
+KAKD LANMISCELLORD:
+O thy my sweling ifsenthy sharly bretherd
+' hoyom in gook-hourd.
+
+OREELANTESL ELIASTOLES: Hentull surtithe spicter offers my by not yut ad the ligh and thendeay
+Sum that my, surpersty dast sarmvethern
+Moll betsteds, amangle tell my my emat Braging thesred therece hip.
+
+HAKY YOLERELEL:
+By speake, I'll thes the spacke,
+Yor I'd I swrokem; an have his to premtles Jite;
+Avifest the of com, tom o thereity and and slilldched'-
+Twaclinget pooker thill-ther! Of I dadist endpat is thou ha:
+Where God I lick withel, chint heads of gles Ato secpast to that
+To plack as nows Enllr my liff waven buither mow.
+
+FUCENES:
+
+WERRTESTENT:
+These thell for thou novedy I
+Garchalt faren to graves, seedin thossents and thalsed to Korgchablone, palled codmuin to is mamnherd?
+
+SEELIS:
+Morssed Mruveet threade forseivand thou hat
+Whacaindnow lokles I therkerch To hounkd your gepeinguch to dord
+To herech O, it awainduthers!
+
+AULUSTIO:
+Whand with demmor tow that savis sainceither madgs,
+That
+I thlaved sunjugkuend on not so smy;
+That gnomtcanly-freerill's swarter, nod Cringel.
+
+ESINNCEN:
+Whis seevinst gesco that ro an bufqully.
+
+SGONCESTEN:
+Nor mareffong theeved, hourdss thes of to the prongaint
+Then that slavestandartua thourent-Raso shallss neriossm.
+
+HEMRELWABESLUS:
+The whatt wher sicht e Garghting hath wisty have shen
+dove Flendsond!
+Some my shere, ann chall to pauncooot thes theard of Betkay nother will vandnard is allow:
+Iars speaw pord, gorded in by my brow the svail that by If's all, thou heely and, fround
+The hark is nothith that ceed and tothers joth wrors thee.
+
+ESEENTO:
+Getht kinds it sared as forth,
+To the livest but Cithunk ney steathes as teerch thenent berkares of her mibbort.
+
+COLUMETHOS:
+Hy klay and hath brow onow blemt and Fraa though though might umand breptua
+Belst a brack, Singleegulnh, not thour thy mudes as hill herrock of
+Theok, Lo santest 
+ --- End Sample temp: 0.9 
+ 
+ 
+ Start Sample temp: 1 --- 
+ PETHUKt DerpAtWAST:
+Mudgher stuther Do celpot wiRG thy neasadnt.
+
+MANECHAME:
+Wy nown nos
+'gay sacalsfest of the, InG Hadwer't tither thou lie bithes
+And to what do shancell, 'gest spearice
+As spewty your ardemssoublen-sefored in anl his of not it thes pleicint:
+Is this to somndecold you knowld
+Ho at I thou shat shome, Brokent atherd thet Mames groth mlebthes brivinishe,
+' Pritwrlevingfach, a pifpther'dllst at ky tute I thele
+Ollll shat I bnow longing that mbas my that awand lagligen
+Them Ifous is is thou pront,
+And I by the one what-tis, forputy: his heavo.
+
+BETALISEZIO:
+Medly of cin I my repest to bet magal sich to.
+
+KONNIOSA:
+I dirs Nodmstatinglorld shamventrlingers,
+-Low mirghwervent. I kno ledenity at I placomest thenk?
+O mont;
+CAllly; of Gartust clafendes not to wall thou theaver't meckeand
+The I I Vhomntold wrer, being wither a
+dorst omurlefel'ass
+Heen adunglaand brettranio, to Breath as theinge
+Tomther Ipy I most there thingle!
+
+BOLINLAUWES:
+That forr tomaterugk ryherd.
+
+CETOSCHIOS:
+Whespeet Wetsimy thene parpendentmy: I grack, our hanloond allow ut thenelinciseess,
+To Vlarscredpond yow
+Tarpuny blioly MaMmlicgn Richer't is hidgh,
+Terly hile have thou nutint carguinglst.
+
+GLUCULNOLTIS:
+My dordt on bath Of yeill's of trouth bondineds, Lon.
+Pardtry.
+
+KEKGRSENTEO:
+AT walcorlfly the fupwade's girsterer; of grew thut I inglomn'st nactiof thanchime!
+Whentwert Ithed yourress wither to beast feve gruedthat,
+we hont withanglens forest brough, his Hidvandicnt ne snavimy
+His nemfoand youre howh but I mastrent is theth
+me shicklar ownt nobe Mrlady thes last and it?
+Ply Pamnokn thincel norglingw'dt and stind thimy, of it in connast
+Tham sadss, qno.
+
+GRONNCHOURHAK:
+Shall, Anderiencest,
+Met and merither, to I conll blooserstithing-And yourguthed seed spost,
+By hask whaid houst todd, sirsees'd pruve thes in flesgnceiring to cordt emenither wath mord hay Heark,
+as lother now, shacghmirgiors
+Wich have erest tom-sencats glorndnort remser.
+
+BLAUCESTES:
+Blicefore, as hesphed, Inwr 
+ --- End Sample temp: 1 
+ 
+ 
